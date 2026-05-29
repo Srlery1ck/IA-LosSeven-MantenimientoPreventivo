@@ -6,8 +6,8 @@
 > **Dataset:** AI4I 2020 Predictive Maintenance (UCI Machine Learning Repository)  
 > **Problema:** Clasificación binaria — predecir fallas de maquinaria industrial antes de que ocurran
 
-
-
+#Link del video explicativo
+https://drive.google.com/file/d/1VIbOHRy9iOU89I3nK73dtMrLH2bhXmdH/view?usp=sharing
 ---
 
 ## Contenido del repositorio
@@ -105,5 +105,6 @@ Entrenamiento y comparación de **5 modelos**:
 - **K-means** — Método del codo + Silhouette Score para K óptimo
 - **DBSCAN** — K-distance graph para selección de `eps`, análisis de ruido/anomalías
 ---
+
 
 
